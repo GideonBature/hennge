@@ -18,11 +18,14 @@ We want you to calculate a sum of squares of given integers, excluding any negat
 * Your solution will be tested against Python 3.12 (as of April 2024) or higher
 * Code must include a main() function:
 
-* def main():
-       ...
-
-* if name === "main":
-       main()
+``` def main():
+```
+```     ...
+```
+``` if name === "main": ```
+```
+```     main()
+```
 
 ## Sample Input
     2
@@ -34,5 +37,5 @@ We want you to calculate a sum of squares of given integers, excluding any negat
 ## Sample Output
     206
     1397
- 
+
 #######################################################################
