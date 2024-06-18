@@ -16,25 +16,22 @@ We want you to calculate a sum of squares of given integers, excluding any negat
 * Choose your favorite language from either of these two: Go, Python
 * Do not use any for loop, while loop, or any list/set/dictionary comprehension
 * Your solution will be tested against Python 3.12 (as of April 2024) or higher
-
-* ``` def main():
-   ...
+* Code must include a main() function:
+```def main():
+        ...
 ```
-```
-* if name === "main":
+``` if name === "main":
        main()
 ```
 ## Sample Input
- ```
- 2
- 4
- 3 -1 1 14
- 5
- 9 6 -53 32 16
-```
-##Sample Output
- ```
- 206
- 1397
- ```
+    2
+    4
+    3 -1 1 14
+    5
+    9 6 -53 32 16
+
+## Sample Output
+    206
+    1397
+ 
 #######################################################################
