@@ -17,12 +17,13 @@ We want you to calculate a sum of squares of given integers, excluding any negat
 * Do not use any for loop, while loop, or any list/set/dictionary comprehension
 * Your solution will be tested against Python 3.12 (as of April 2024) or higher
 * Code must include a main() function:
-```def main():
-        ...
-```
-``` if name === "main":
+
+* def main():
+       ...
+
+* if name === "main":
        main()
-```
+
 ## Sample Input
     2
     4
