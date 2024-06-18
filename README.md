@@ -19,18 +19,22 @@ We want you to calculate a sum of squares of given integers, excluding any negat
 
 * ``` def main():
    ...
-
+```
+```
 * if name === "main":
        main()
 ```
 ## Sample Input
+ ```
  2
  4
  3 -1 1 14
  5
  9 6 -53 32 16
-
+```
 ##Sample Output
+ ```
  206
  1397
+ ```
 #######################################################################
